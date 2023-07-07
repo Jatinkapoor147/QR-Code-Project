@@ -88,7 +88,13 @@ body {
         align-self: center;
         justify-self: center;
         left: 15%;
+        margin-bottom:0;
+        padding-bottom:10px;
     }
+    .qrcode {
+        margin-bottom:0;
+    }
+    
     .attribution {
         left: 28%;
         text-align: center;
