@@ -28,9 +28,9 @@ body {
     background-color: white;
     border-radius: 25px;
     padding-bottom: 40px;
-    box-shadow: 3px 11px 14px 0px rgba(191,191,191,0.54) inset;
--webkit-box-shadow: 3px 11px 14px 0px rgba(191,191,191,0.54) inset;
--moz-box-shadow: 3px 11px 14px 0px rgba(191,191,191,0.54) inset;
+    box-shadow: 3px 11px 14px 0px rgba(191,191,191,0.54);
+-webkit-box-shadow: 3px 11px 14px 0px rgba(191,191,191,0.54);
+-moz-box-shadow: 3px 11px 14px 0px rgba(191,191,191,0.54);
 }
 .qrcode{
   border-radius: 25px;
